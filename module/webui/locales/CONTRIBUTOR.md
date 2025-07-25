@@ -41,6 +41,8 @@
 
 - [chisewaguri](https://github.com/chisewaguri)
 - [Rem01Gaming](https://github.com/Rem01Gaming)
+- [Mesazane](https://github.com/Mesazane)
+
 
 ---
 
